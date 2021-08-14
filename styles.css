@@ -136,9 +136,9 @@ font-size: small;
 }
 
 .BADGE{
-transform: translate(0%, -800%);
-width: 90px;
-margin-left: 10px;
+transform: translate(0%, -800%) !important;
+width: 90px !important;
+margin-left: 10px !important;
 }
 
 .CARD1{
